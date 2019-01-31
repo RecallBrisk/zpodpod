@@ -17,7 +17,7 @@ zpodpod is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'zpodpod'
+pod 'zpodpod',:git => 'https://github.com/RecallBrisk/zpodpod.git'
 ```
 
 ## Author
