@@ -22,7 +22,7 @@ pod 'zpodpod'
 
 ## Author
 
-136529019@qq.com, zhenjinhuang@epweike.com
+136529019@qq.com
 
 ## License
 
