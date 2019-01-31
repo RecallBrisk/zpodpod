@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/RecallBrisk/zpodpod.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '136529019@qq.com' }
+  s.author           = { '136529019@qq.com' => 'zhenjinhuang@epweike.com' }
   s.source           = { :git => 'https://github.com/RecallBrisk/zpodpod.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
