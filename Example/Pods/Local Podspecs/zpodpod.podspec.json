@@ -1,0 +1,22 @@
+{
+  "name": "zpodpod",
+  "version": "0.1.0",
+  "summary": "A short description of zpodpod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/136529019@qq.com/zpodpod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "136529019@qq.com": "zhenjinhuang@epweike.com"
+  },
+  "source": {
+    "git": "https://github.com/136529019@qq.com/zpodpod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "zpodpod/Classes/**/*"
+}

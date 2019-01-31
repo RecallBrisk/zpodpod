@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B9E54FC96348D0FB36EA787 /* zpodpod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = zpodpod.podspec; path = ../zpodpod.podspec; sourceTree = "<group>"; };
+		0B9E54FC96348D0FB36EA787 /* zpodpod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = zpodpod.podspec; path = ../zpodpod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5294142A7D43F3D998AFB89D /* Pods_zpodpod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_zpodpod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* zpodpod_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = zpodpod_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,9 +64,9 @@
 		8369500452DC5866141D8FC0 /* Pods-zpodpod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-zpodpod_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-zpodpod_Tests/Pods-zpodpod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2C20CC8C22E6541C1745C6A /* Pods-zpodpod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-zpodpod_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-zpodpod_Example/Pods-zpodpod_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C877CE5C5A3C1B8DC9360AC6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C877CE5C5A3C1B8DC9360AC6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E7405550DCF0526B06BF3569 /* Pods-zpodpod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-zpodpod_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-zpodpod_Tests/Pods-zpodpod_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F22D5B8D2CE67F8A7D1CD599 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F22D5B8D2CE67F8A7D1CD599 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

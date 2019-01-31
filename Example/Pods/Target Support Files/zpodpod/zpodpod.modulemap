@@ -1,0 +1,6 @@
+framework module zpodpod {
+  umbrella header "zpodpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
