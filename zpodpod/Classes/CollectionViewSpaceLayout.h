@@ -12,7 +12,7 @@
 
 @required
 
-///0.1.1
+///0.1.2
 //返回cell大小
 - (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout*)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath;
 @end

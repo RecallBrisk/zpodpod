@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'zpodpod'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of zpodpod.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/136529019@qq.com/zpodpod'
+  s.homepage         = 'https://github.com/RecallBrisk/zpodpod.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '136529019@qq.com' => 'zhenjinhuang@epweike.com' }
-  s.source           = { :git => 'https://github.com/136529019@qq.com/zpodpod.git', :tag => s.version.to_s }
+  s.author           = { '136529019@qq.com' }
+  s.source           = { :git => 'https://github.com/RecallBrisk/zpodpod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
